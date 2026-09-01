@@ -15,7 +15,7 @@ Featuring a green-on-black Matrix CRT aesthetic, this application integrates dir
 * **Auto-Pause Bandwidth Saver**: Automatically terminates the stream if left paused for more than 30 seconds.
 * **MPD Health Status**: Visual LED indicator displaying local MPD daemon socket connectivity in real-time.
 * **Instant UI Feedback**: Automatically clears metadata fields on button pushes to prevent stale track display.
-* **Runs as a web fronted on port 5000.
+* **Runs as a web fronted on port 5000**.
 
 ---
 
